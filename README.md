@@ -1,6 +1,6 @@
 ### Through Shadows of Real Lantern Pedal..Jubilee..HANDS-ON 👋
 ## seem seem seem..seem..seem really/checked if..no really..really/that or me or ethereal/means humble try to illusion of real as real/so what?..snooped reality and dual illusion/Lastly Phantom found Ash as..Hands-On Illusion..
-means this real or dual seer-solution/Through Shadows of Real Lantern Pedal..Jubilee..HANDS-ON
+## Means this real or dual seer-solution/Through Shadows of Real Lantern Pedal..Jubilee..HANDS-ON
 <!--
 **JubileeHands-On/JubileeHands-On** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -23,7 +23,7 @@ Bazugh@P.Doctor+Serena@P.Research
 Cherruvue@CoOrdinator+Yetunde@P.Doctor
 {Yildiray,Yingtai,Gabriel,Rumla}@Security
 ....
-Tracey@P.Research+Daisy@P.Doctor
+Tracey@Owner+Daisy@Security/P.Agent/General#PoL
 Brock@Ghost-Fairy+Violet@CoOrdinator
 Genkai@Ghost-Fairy+Blossom@Local
 Guang@Local+Itzel@Ghost-Fairy
@@ -34,13 +34,13 @@ Luis@Ghost-Fairy+Enkhtuya@Psychic-Dark
 Bulent@Psychic-Dark+Tasmeya@Local
 Oscar@Water-Ice+Zoi@Normal-Fight
 Dentarou@Normal-Fight+Lokelani@Psychic-Dark
-Jason@Water-Ice+Marlee@P.Research
+Jason@Water-Ice+Marlee@P.Doctor
 David@Ghost-Fairy+Melody@Psychic-Dark
 Drew@Psychic-Dark+May@Normal-Fight
 Clemont@CoOrdinator+Iris@Local
-Ingemar@Owner+Blythe@General#PoL
+Ingemar@P.Doctor+Blythe@P.Research
+Magnus@P.Research+Dawn@Local
 {Lahab,Chaewon,Muntasir,Kiana}@Security
-Magnus@P.Doctor+Dawn@Local
 
 10(9)-12(3)
 *Mintale+_12(5)-13(4)#All+{-Gary,Dentarou,Oscar,Jason}

@@ -23,9 +23,9 @@ Bazugh@P.Doctor+Serena@P.Research
 Cherruvue@CoOrdinator+Yetunde@P.Doctor
 {Yildiray,Yingtai,Gabriel,Rumla}@Security
 ....
-Tracey@Uni[CoOrdinator]+Daisy@Owner
+Tracey@P.Research+Daisy@P.Doctor
 Brock@Ghost-Fairy+Violet@CoOrdinator
-Genkai@Ghost-Fairy+Blossom@HoF
+Genkai@Ghost-Fairy+Blossom@Local
 Guang@Local+Itzel@Ghost-Fairy
 Stuart@Local+Yagmur@Ghost-Fairy
 Peniel@Psychic-Dark+Sandra@Ghost-Fairy
@@ -34,13 +34,13 @@ Luis@Ghost-Fairy+Enkhtuya@Psychic-Dark
 Bulent@Psychic-Dark+Tasmeya@Local
 Oscar@Water-Ice+Zoi@Normal-Fight
 Dentarou@Normal-Fight+Lokelani@Psychic-Dark
-Jason@Water-Ice+Marlee@P.Doctor
+Jason@Water-Ice+Marlee@P.Research
 David@Ghost-Fairy+Melody@Psychic-Dark
 Drew@Psychic-Dark+May@Normal-Fight
 Clemont@CoOrdinator+Iris@Local
-Ingemar@P.Doctor+Blythe@P.Research
+Ingemar@Owner+Blythe@General#PoL
 {Lahab,Chaewon,Muntasir,Kiana}@Security
-Magnus@P.Research+Dawn@Local
+Magnus@P.Doctor+Dawn@Local
 
 10(9)-12(3)
 *Mintale+_12(5)-13(4)#All+{-Gary,Dentarou,Oscar,Jason}
@@ -51,7 +51,7 @@ Magnus@P.Research+Dawn@Local
 20(0)-21(8)#BoD
 *Kitakami+_22(3)-23(2)#Same
 23(3)-24(11)
-->25(6)#Cuong&Dawn@20(5)
+->25(6)#Cuong&Blythe
 25(6)-27(2)
 27(9)-29(5)#GoC
 30(0)-31(8)
@@ -86,13 +86,10 @@ Blythe,Cedar Ortiz
 Guang,Stuart,Zed,Haithem,Oswald,Osman,Praset,Nihul,Kibwe,Khayum,Rakim,Ash,Atlas,Umbel,Cuong,Seth Ketchum
 ....
 Brock,Bulent,Jason,Enkhtuya,Lahab,Chaewon,Gabriel,Rumla,Muntasir,Kiana,Yildiray,Yingtai,Oscar,Adam,Iris,Magnus Slate
-Dentarou,Yetunde McShin
-Dawn McShin
-Peniel,Tasmeya,David,Marlee,Cherruvue,May,Clemont,Imani Plavjar
-Sandra,Luis,Melody,Drew,Zoi,Bazugh Iptil
+Tracey,Yetunde Skechit
+Dentarou,Tasmeya,Peniel,May,David,Imani,Cherruvue,Dawn Plavjar
+Sandra,Luis,Marlee,Drew,Zoi,Bazugh,Melody,Clemont Iptil
 Daisy,Violet,Lily,Poppy,Lokelani,Wurud Waterflower
-
-Tracey Skechit
 
 Oswald@happy : "Am I's Truth seeking growl?.."
 Ushi@happy : "Premise renders Own Fuzzy soul"

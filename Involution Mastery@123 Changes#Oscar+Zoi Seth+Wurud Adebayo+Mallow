@@ -23,9 +23,9 @@ Bazugh@P.Doctor+Serena@P.Research
 Cherruvue@CoOrdinator+Yetunde@P.Doctor
 {Yildiray,Yingtai,Gabriel,Rumla}@Security
 ....
-Tracey@P.Research+Daisy@CoOrdinator
-Brock@Ghost-Fairy+Violet@Psychic-Dark
-Genkai@Ghost-Fairy+Blossom@Local
+Tracey@Uni[CoOrdinator]+Daisy@Owner
+Brock@Ghost-Fairy+Violet@CoOrdinator
+Genkai@Ghost-Fairy+Blossom@HoF
 Guang@Local+Itzel@Ghost-Fairy
 Stuart@Local+Yagmur@Ghost-Fairy
 Peniel@Psychic-Dark+Sandra@Ghost-Fairy
@@ -35,23 +35,23 @@ Bulent@Psychic-Dark+Tasmeya@Local
 Oscar@Water-Ice+Zoi@Normal-Fight
 Dentarou@Normal-Fight+Lokelani@Psychic-Dark
 Jason@Water-Ice+Marlee@P.Doctor
-David@Ghost-Fairy+Melody@Local
+David@Ghost-Fairy+Melody@Psychic-Dark
 Drew@Psychic-Dark+May@Normal-Fight
 Clemont@CoOrdinator+Iris@Local
 Ingemar@P.Doctor+Blythe@P.Research
 {Lahab,Chaewon,Muntasir,Kiana}@Security
-[Magnus@Owner{-5(0)}+Dawn@General{-5(5)}]
+Magnus@P.Research+Dawn@Local
 
 10(9)-12(3)
-*12(5)-13(4)#All+{-Gary,Dentarou,Oscar,Jason}#Tracey
+*Mintale+_12(5)-13(4)#All+{-Gary,Dentarou,Oscar,Jason}
 13(6)-15(2)
-*15(3)-16(2)#Same
+*Decolore+_15(3)-16(2)#Same
 16(9)-18(5)
-*18(9)-19(8)#Same
+*Unova+_18(9)-19(8)#Same
 20(0)-21(8)#BoD
-*22(3)-23(2)#Same
+*Kitakami+_22(3)-23(2)#Same
 23(3)-24(11)
-->25(6)#Cuong&Dawn@20(1)
+->25(6)#Cuong&Dawn@20(5)
 25(6)-27(2)
 27(9)-29(5)#GoC
 30(0)-31(8)
@@ -62,10 +62,37 @@ Ingemar@P.Doctor+Blythe@P.Research
 41(3)-42(11)#PoL
 43(6)-45(2)
 45(9)-47(5)
-*48(0)-48(11)#Same
+*Interregional+_48(0)-48(11)#Same
 49(0)-50(8)#HoF
-*50(9)-51(8)#Same
+*Mintale+_50(9)-51(8)#Same
 52(3)-53(11)
+
+Hisui(7),Tundra(11)
+Ransei(3),Unova(15)
+
+Mintale(1),Kalos(13)
+Paldea(5),Galar(9)
+
+Decolore(10),Hoenn(6)
+Fiorre(14),Johto(2)
+
+Alola(16),Lental(4)
+Kitakami(12),Sinnoh(8)
+
+Gary,Blossom,Wijdan,Kealohi,Pearl,Ojasa,Oumou,Lyra,Ushi,Lixue,Nirja,Blooma,Freesia,Misty,Itzel,Yagmur Oak
+Genkai,Serena Tanaka
+Ingemar,Gladys Birch
+Blythe,Cedar Ortiz
+Guang,Stuart,Zed,Haithem,Oswald,Osman,Praset,Nihul,Kibwe,Khayum,Rakim,Ash,Atlas,Umbel,Cuong,Seth Ketchum
+....
+Brock,Bulent,Jason,Enkhtuya,Lahab,Chaewon,Gabriel,Rumla,Muntasir,Kiana,Yildiray,Yingtai,Oscar,Adam,Iris,Magnus Slate
+Dentarou,Yetunde McShin
+Dawn McShin
+Peniel,Tasmeya,David,Marlee,Cherruvue,May,Clemont,Imani Plavjar
+Sandra,Luis,Melody,Drew,Zoi,Bazugh Iptil
+Daisy,Violet,Lily,Poppy,Lokelani,Wurud Waterflower
+
+Tracey Skechit
 
 Oswald@happy : "Am I's Truth seeking growl?.."
 Ushi@happy : "Premise renders Own Fuzzy soul"

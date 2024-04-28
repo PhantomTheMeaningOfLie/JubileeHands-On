@@ -4,7 +4,7 @@ Oscar+Zoi->The Fighting Fire
 Wurud->Duality Solely
 
 Gary@Normal-Fight+Lily@Psychic-Dark
-Osman@Ghost-Fairy+Ojasa@HoF
+Osman@Ghost-Fairy+Ojasa@Local
 Oswald@Ghost-Fairy+Ushi@Local
 Praset@Local+Pearl@ Psychic-Dark
 Khayum@Psychic-Dark+Kealohi@Local
@@ -22,9 +22,7 @@ Cedar@P.Research+Gladys@CoOrdinator
 Bazugh@P.Doctor+Serena@P.Research
 Cherruvue@CoOrdinator+Yetunde@P.Doctor
 {Yildiray,Yingtai,Gabriel,Rumla}@Security
-
-[Magnus@Owner+Dawn@P.Agent]
-
+....
 Tracey@P.Research+Daisy@CoOrdinator
 Brock@Ghost-Fairy+Violet@Psychic-Dark
 Genkai@Ghost-Fairy+Blossom@Local
@@ -42,6 +40,32 @@ Drew@Psychic-Dark+May@Normal-Fight
 Clemont@CoOrdinator+Iris@Local
 Ingemar@P.Doctor+Blythe@P.Research
 {Lahab,Chaewon,Muntasir,Kiana}@Security
+[Magnus@Owner{-5(0)}+Dawn@General{-5(5)}]
+
+10(9)-12(3)
+*12(5)-13(4)#All+{-Gary,Dentarou,Oscar,Jason}#Tracey
+13(6)-15(2)
+*15(3)-16(2)#Same
+16(9)-18(5)
+*18(9)-19(8)#Same
+20(0)-21(8)#BoD
+*22(3)-23(2)#Same
+23(3)-24(11)
+->25(6)#Cuong&Dawn@20(1)
+25(6)-27(2)
+27(9)-29(5)#GoC
+30(0)-31(8)
+32(3)-33(11)
+34(6)-36(2)#CoE
+36(9)-38(5)
+39(0)-40(8)
+41(3)-42(11)#PoL
+43(6)-45(2)
+45(9)-47(5)
+*48(0)-48(11)#Same
+49(0)-50(8)#HoF
+*50(9)-51(8)#Same
+52(3)-53(11)
 
 Oswald@happy : "Am I's Truth seeking growl?.."
 Ushi@happy : "Premise renders Own Fuzzy soul"
